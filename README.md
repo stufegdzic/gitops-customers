@@ -1,1 +1,1 @@
-# gitops-testing
+# gitops-teams
