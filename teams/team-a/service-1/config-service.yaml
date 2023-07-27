@@ -1,4 +1,3 @@
 type: service-1
 namespace: team-a
 values: |
-  namespace: team-a

@@ -1,6 +1,5 @@
 type: service-1
 namespace: team-b
 values: |
-  namespace: team-b
   testmap:
     testprop: team-b-CHART_service_1_WORKS
