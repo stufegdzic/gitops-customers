@@ -1,0 +1,4 @@
+team: team.b
+namespace: team-b
+values: |
+  namespace: team-b
