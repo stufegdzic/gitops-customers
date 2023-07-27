@@ -1,4 +1,4 @@
-teamname: team.a
+team: team.a
 namespace: team-a
 values: |
   team:
