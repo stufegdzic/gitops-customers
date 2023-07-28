@@ -1,5 +1,6 @@
 type: service-1
 namespace: team-a
 values: |
-  testmap:
-    testprop: team-a-service-1_CHART_WORKS
+  service:
+    configmap:
+      prop: team-a-service-1_CHART_WORKS
