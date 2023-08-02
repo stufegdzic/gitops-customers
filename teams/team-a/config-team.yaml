@@ -1,6 +1,0 @@
-team: team.a
-namespace: team-a
-values: |
-  team:
-      configmap:
-          prop: CHART_team-a_WORKS

@@ -1,0 +1,5 @@
+customer: a
+namespace: customer-a
+values: |
+  configmap:
+    prop: customer-a-overrides
