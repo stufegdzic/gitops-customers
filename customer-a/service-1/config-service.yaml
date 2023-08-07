@@ -1,5 +1,0 @@
-type: service-1
-values: |
-  service:
-    configmap:
-      prop: team-a-service-1_CHART_WORKS
