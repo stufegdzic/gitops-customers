@@ -1,5 +1,4 @@
 type: service-1
 values: |
-  service:
     configmap:
-      prop: team-a-service-1_CHART_WORKS
+      prop: customer-a-service-1_overrides
