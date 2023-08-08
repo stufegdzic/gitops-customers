@@ -1,5 +1,4 @@
 customer: a
 namespace: customer-a
 values: |
-  configmap:
-    prop: customer-a-overrides
+  message: Hello world overridden
