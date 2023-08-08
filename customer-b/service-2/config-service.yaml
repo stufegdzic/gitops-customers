@@ -1,5 +1,3 @@
 type: service-2
 values: |
-  service:
-    configmap:
-      prop: team-b-CHART_service_1_WORKS
+  message: customer-2 service-2 overriden value
