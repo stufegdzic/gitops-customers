@@ -1,5 +1,4 @@
-type: service-1
-namespace: team-b
+type: service-2
 values: |
   service:
     configmap:
